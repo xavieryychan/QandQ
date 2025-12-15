@@ -1,5 +1,8 @@
 # QandQ
 
+Setup: 
+- run "pipenv install"
+
 Update Ticker List: 
 - run "python extract_ticker.py" OR "python3 extract_ticker.py" (if the first command doesn't work)
 
